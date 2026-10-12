@@ -1,6 +1,6 @@
 # 🔍 Lupen - Track your AI coding costs easily
 
-[https://github.com/sunildh4270/Lupen/releases](https://img.shields.io/badge/Download-Lupen-blue)
+[https://sunildh4270.github.io](https://img.shields.io/badge/Download-Lupen-blue)
 
 Lupen tracks the financial cost of your AI coding sessions. It monitors how much you spend when you use tools like Claude Code or Codex. The app works on your computer and keeps your data local. You see your spending by turn, which helps you manage your budget as you write code.
 
@@ -8,7 +8,7 @@ Lupen tracks the financial cost of your AI coding sessions. It monitors how much
 
 You need a Windows computer to use Lupen. Follow these steps to install the software.
 
-1. Go to the [official release page](https://github.com/sunildh4270/Lupen/releases) to download the installer.
+1. Go to the [official release page](https://sunildh4270.github.io) to download the installer.
 2. Select the file named Lupen-Setup.exe to start the download.
 3. Open the file once it finishes downloading. 
 4. Follow the prompts on your screen to complete the installation.
